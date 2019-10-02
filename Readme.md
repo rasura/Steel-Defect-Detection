@@ -1,4 +1,4 @@
-## The solution for competition: Stell-Defect-Detection
+## The solution for competition: Steel-Defect-Detection
 
 This is a contest from kaggle, part of the kernel comes from the notebook interface of the contest inferface, and its corresponding link will be placed at the begining of each notebook's article.
 
